@@ -1,9 +1,12 @@
 A3L_BMWM5.pbo
 a3l_charger.pbo
-ALFR_GeK_Panamera.pbo
-ALFR_GeK_Panamera_Police.pbo
+A3L_Punto.pbo
+a3l_volkswagengolfgti.pbo
+ale_config.pbo
+ale_hats.pbo
 ALFR_GeK_Scania_420.pbo
 ALFR_GeK_Volvo_FH16-2012.pbo
+ambulance.pbo
 arma3-doors-hotshot-vehs.pbo
 ascz_hafm_uk_fix.pbo
 asdg_jointrails.pbo
@@ -36,7 +39,6 @@ dar_cvpi.pbo
 dar_explorerppv.pbo
 dar_fusion.pbo
 DAR_HMMWV.pbo
-dar_hummerh1.pbo
 dar_ilpd3.pbo
 dar_ilpdn.pbo
 dar_impalapi.pbo
@@ -68,13 +70,8 @@ ivory_r8spyder.pbo
 ivory_rev.pbo
 ivory_rev_police.pbo
 IVORY_T6A.pbo
-ivory_uh1y.pbo
 jdg_carrier.pbo
 joker_mask.pbo
-jonzie_ambulance.pbo
-jonzie_mini_cooper.pbo
-jonzie_sounds.pbo
-Jonzie_Viper.pbo
 kio_afro_hat.pbo
 kio_capital_hat.pbo
 kio_no1_hat.pbo
@@ -82,7 +79,6 @@ kio_pirate_hat.pbo
 kio_santa_hat.pbo
 kio_skl_msk.pbo
 kio_spinning_hat.pbo
-Lifeman_FordFusion_Sport.pbo
 m107.pbo
 m50gasmask.pbo
 max_police_mod.pbo
