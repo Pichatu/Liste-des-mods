@@ -1,3 +1,4 @@
+101_editor.pbo
 A3L_BMWM5.pbo
 a3l_charger.pbo
 A3L_Punto.pbo
@@ -30,6 +31,10 @@ cba_vectors.pbo
 cba_versioning.pbo
 cba_xeh.pbo
 cba_xeh_a3.pbo
+cl3_anims.pbo
+cl3_sounds.pbo
+cl3_vehiclefunctions.pbo
+cl3_wheeled.pbo
 dar_02firebirdssv.pbo
 dar_bmwm3.pbo
 dar_challenger.pbo
@@ -54,7 +59,7 @@ dar_taurusppv.pbo
 dash_weaponsafety.pbo
 dbo_old_bike.pbo
 ddopp_taserpack.pbo
-dll_tow.pbo
+dezkit_b206.pbo
 FEMAL3-Heads-Only.pbo
 gasmask.pbo
 gign.pbo
@@ -70,7 +75,6 @@ ivory_r8spyder.pbo
 ivory_rev.pbo
 ivory_rev_police.pbo
 IVORY_T6A.pbo
-jdg_carrier.pbo
 joker_mask.pbo
 kio_afro_hat.pbo
 kio_capital_hat.pbo
@@ -82,6 +86,9 @@ kio_spinning_hat.pbo
 m107.pbo
 m50gasmask.pbo
 max_police_mod.pbo
+MOCAP_Code.pbo
+MOCAP_mov.pbo
+MOCAP_noidle_all.pbo
 mv22.pbo
 neckloose.pbo
 outlw_magrepack.pbo
@@ -107,12 +114,12 @@ sthud_usermenu.pbo
 st_map_auto_brightness.pbo
 st_nametags.pbo
 st_stamina_bar.pbo
+Sue.pbo
 TCG_Charger14.pbo
 TCG_Charger14Slick.pbo
 TCG_Client.pbo
 trixie_ghillie.pbo
 trixie_recon.pbo
-ttt_nimitzfunctions.pbo
 turban.pbo
 watershadow.pbo
 WGM_Skins.pbo
