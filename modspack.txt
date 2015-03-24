@@ -8,6 +8,7 @@ ale_hats.pbo
 alfr_Arm.pbo
 ALFR_GeK_Panamera.pbo
 ALFR_GeK_Panamera_Police.pbo
+alfr_police.pbo
 ambulance.pbo
 arma3-doors-hotshot-vehs.pbo
 ascz_hafm_uk_fix.pbo
@@ -68,6 +69,8 @@ gnt_c185.pbo
 hafm_arma2_uk_wheeled.pbo
 ice_a3_woman.pbo
 impala.pbo
+insignia_police.pbo
+insignia_police_st.pbo
 ivory_b206.pbo
 ivory_crj200.pbo
 ivory_prius.pbo
@@ -85,12 +88,14 @@ kio_pirate_hat.pbo
 kio_santa_hat.pbo
 kio_skl_msk.pbo
 kio_spinning_hat.pbo
+lsd_nvg.pbo
 m107.pbo
 m50gasmask.pbo
 max_police_mod.pbo
 MOCAP_Code.pbo
 MOCAP_mov.pbo
 MOCAP_noidle_all.pbo
+murcielago_police.pbo
 mv22.pbo
 neckloose.pbo
 outlw_magrepack.pbo
@@ -110,6 +115,7 @@ rpima.pbo
 santahat.pbo
 sfp_wheelchair.pbo
 shield.pbo
+spliffz_vehicleActions.pbo
 stationpompier.pbo
 stgi.pbo
 sthud.pbo
