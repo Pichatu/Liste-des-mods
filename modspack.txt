@@ -32,7 +32,6 @@ cba_ui_helper.pbo
 cba_vectors.pbo
 cba_versioning.pbo
 cba_xeh.pbo
-cba_xeh_a3.pbo
 cl3_anims.pbo
 cl3_sounds.pbo
 cl3_vehiclefunctions.pbo
@@ -98,7 +97,6 @@ MOCAP_noidle_all.pbo
 murcielago_police.pbo
 mv22.pbo
 neckloose.pbo
-outlw_magrepack.pbo
 polizei.pbo
 R3F_Acc.pbo
 R3F_Armes.pbo
