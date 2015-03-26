@@ -90,6 +90,7 @@ kio_pirate_hat.pbo
 kio_santa_hat.pbo
 kio_skl_msk.pbo
 kio_spinning_hat.pbo
+Lister.bat
 lsd_nvg.pbo
 m107.pbo
 m50gasmask.pbo
