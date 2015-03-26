@@ -13,6 +13,9 @@ ambulance.pbo
 arma3-doors-hotshot-vehs.pbo
 ascz_hafm_uk_fix.pbo
 asdg_jointrails.pbo
+ATLAS_LanguageCfg.pbo
+ATLAS_Water.pbo
+ATLAS_Weapons.pbo
 bmw_m3_gtr.pbo
 cba_ai.pbo
 cba_arrays.pbo
@@ -98,10 +101,15 @@ murcielago_police.pbo
 mv22.pbo
 neckloose.pbo
 polizei.pbo
+prpl_famas_a3.pbo
 R3F_Acc.pbo
 R3F_Armes.pbo
 R3F_Armes_c.pbo
 range_rover_police.pbo
+REV1_equip.pbo
+rev1_flash.pbo
+rev1_m93r.pbo
+rev1_pers.pbo
 RJJ_Agile_Blackfoot.pbo
 RJJ_Agile_Ghosthawk.pbo
 RJJ_Agile_Kajman.pbo
