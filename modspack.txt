@@ -1,7 +1,4 @@
 101_editor.pbo
-a2_rpg7.pbo
-a2_rpg7_blastcorefix.pbo
-a2_rpg7_c.pbo
 A3L_BMWM5.pbo
 a3l_charger.pbo
 A3L_Punto.pbo
@@ -9,8 +6,6 @@ a3l_volkswagengolfgti.pbo
 ale_config.pbo
 ale_hats.pbo
 alfr_Arm.pbo
-ALFR_GeK_Panamera.pbo
-ALFR_GeK_Panamera_Police.pbo
 alfr_police.pbo
 ambulance.pbo
 arma3-ak-tactical2.pbo
@@ -20,9 +15,6 @@ arma3-dragunov-hotshot.pbo
 arma3-shotgun-css.pbo
 ascz_hafm_uk_fix.pbo
 asdg_jointrails.pbo
-ATLAS_LanguageCfg.pbo
-ATLAS_Water.pbo
-ATLAS_Weapons.pbo
 Bartabac_Model+.pbo
 bmw_m3_gtr.pbo
 cba_ai.pbo
@@ -134,17 +126,11 @@ sfp_wheelchair.pbo
 shield.pbo
 Specter_Armaments.pbo
 spliffz_vehicleActions.pbo
-stationpompier.pbo
 stgi.pbo
 sthud.pbo
 sthud_usermenu.pbo
 st_map_auto_brightness.pbo
-st_nametags.pbo
 st_stamina_bar.pbo
-Sue.pbo
-TCG_Charger14.pbo
-TCG_Charger14Slick.pbo
-TCG_Client.pbo
 trixie_ghillie.pbo
 trixie_recon.pbo
 turban.pbo
